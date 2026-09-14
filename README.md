@@ -11,7 +11,7 @@ Three years validating safety-critical embedded software in the automotive indus
 **[Stocks Trading Bot](https://github.com/flosimi/stocks-trading-bot)** — An RSI+MACD trading bot running as a systemd service.
 Python · pandas · broker-agnostic architecture (currently Alpaca paper trading, built to swap in Interactive Brokers for EU live trading with a single class change) · Discord notifications · remote-managed over Tailscale.
 
-**[AI Crypto Trading Bot](#)** — Binance Spot trading with a local LLM in the loop.
+**[AI Crypto Trading Bot](https://github.com/flosimi/ai-crypto-trading-bot)** — Binance Spot trading with a local LLM in the loop.
 React · Python · Binance API · Ollama (qwen2.5) for trade-context reasoning on top of a backtested RSI+MACD strategy · roadmap toward adaptive threshold recalibration and a reinforcement-learning agent.
 
 **Automotive test tooling** — Internal tools automating parts of the AUTOSAR/ASPICE test workflow (test case generation via ALM/ETM REST APIs, overnight dSPACE AutomationDesk test runs, CANoe/dSPACE data sync). Built for a commercial employer, so the code stays private — happy to walk through the design in an interview.
