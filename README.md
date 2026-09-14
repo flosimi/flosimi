@@ -8,7 +8,7 @@ Three years validating safety-critical embedded software in the automotive indus
 
 ### What I'm building
 
-**[Stocks Trading Bot](#)** — An RSI+MACD trading bot running as a systemd service.
+**[Stocks Trading Bot](https://github.com/flosimi/stocks-trading-bot)** — An RSI+MACD trading bot running as a systemd service.
 Python · pandas · broker-agnostic architecture (currently Alpaca paper trading, built to swap in Interactive Brokers for EU live trading with a single class change) · Discord notifications · remote-managed over Tailscale.
 
 **[AI Crypto Trading Bot](#)** — Binance Spot trading with a local LLM in the loop.
@@ -32,4 +32,4 @@ React · Python · Binance API · Ollama (qwen2.5) for trade-context reasoning o
 
 Based in Craiova, Romania — open to relocating to Bucharest
 
-[LinkedIn](#) · [Email](#)
+[LinkedIn](https://www.linkedin.com/in/florin-simion-707507181/) 
